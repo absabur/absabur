@@ -16,7 +16,7 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 - 🔭 I’m currently working on **Full-Stack Web Applications**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
 - 💬 Ask me about **React, Django, REST APIs, or Selenium**
-- 📫 Contact: absabur929@gmail.com(mailto:absabur929@gmail.com)
+- 📫 Contact: [absabur929@gmail.com](mailto:absabur929@gmail.com)
 
 ---
 
@@ -64,9 +64,5 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=absabur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=absabur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
