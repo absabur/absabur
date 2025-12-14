@@ -5,6 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=vercel)](https://absabur.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/md.abdus.sabur.sayam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-sabur)
 </div>
 
 ---
@@ -15,7 +16,7 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 - 🔭 I’m currently working on **Full-Stack Web Applications**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
 - 💬 Ask me about **React, Django, REST APIs, or Selenium**
-- 📫 Contact: [Your Email Here](mailto:your-email@example.com)
+- 📫 Contact: absabur929@gmail.com(mailto:absabur929@gmail.com)
 
 ---
 
@@ -60,6 +61,12 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 
 <br>
 
-![Visit Count](https://visitcount.itsvg.in/api?id=absabur&icon=5&color=2)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=absabur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=absabur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
