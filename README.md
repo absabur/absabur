@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Md+Abdus+Sabur;Full-Stack+Web+Developer;MERN+Stack+%26+Django+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Md+Abdus+Sabur;Full-Stack+Web+Developer;MERN+Stack+Expert;Next.js+Developer)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel)](https://absabur.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/md.abdus.sabur.sayam)
