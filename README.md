@@ -11,7 +11,7 @@
 ---
 
 ### 👋 I’m a passionate Full-Stack Web Developer
-I specialize in building dynamic, scalable, and efficient web solutions — from intuitive front-end interfaces to robust back-end systems.
+I specialize in building dynamic, scalable, and efficient web solutions.
 
 - 🔭 I’m currently working on **Full-Stack Web Applications**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
@@ -31,30 +31,21 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-**Database & Tools**
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats
 
-![Sabur's Stats](https://github-readme-stats.vercel.app/api?username=absabur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sabur's Stats](https://github-readme-stats.vercel.app/api?username=absabur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1)
 <br>
-![Streak](https://streak-stats.demolab.com/?user=absabur&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=absabur&theme=tokyonight&hide_border=true&v=1)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1)
 
 <br>
 
