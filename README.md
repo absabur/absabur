@@ -22,6 +22,7 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 ---
 
 <div align="center">
+
 ### 💻 Tech Stack
 **Frontend**
 <br>
@@ -45,6 +46,7 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
