@@ -15,15 +15,15 @@
 
 I specialize in building dynamic, scalable, and efficient web solutions — from intuitive front-end interfaces to robust back-end systems.
 
-- 🔭 I’m currently working on **Full-Stack Web Applications**
-- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
-- 💬 Ask me about **React, Next.js, REST APIs, or Selenium**
-- 📫 Contact: [absabur929@gmail.com](mailto:absabur929@gmail.com)
+- I’m currently working on **Full-Stack Web Applications**
+- I’m currently learning **Advanced System Design & Cloud Architecture**
+- Ask me about **React, Next.js, REST APIs, or Selenium**
+- Contact: [absabur929@gmail.com](mailto:absabur929@gmail.com)
 ---
 
 <div align="center">
 
-### 💻 Tech Stack
+### Tech Stack
 **Frontend**
 <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,7 +49,7 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Stats](https://github-readme-stats-gamma-rose-51.vercel.app/api?username=absabur&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats-eight-umber.vercel.app//?user=absabur&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats-gamma-rose-51.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&layout=compact)
