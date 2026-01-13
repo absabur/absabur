@@ -1,16 +1,19 @@
 <div align="center">
 
 # 💫 About Me
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=I'm+Md+Abdus+Sabur;Full-Stack+Web+Developer;MERN+Stack+Expert;Next.js+Developer)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel)](https://absabur.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/md.abdus.sabur.sayam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-sabur)
+
 </div>
 
 ---
 
 ### 👋 I’m a passionate Full-Stack Web Developer
+
 I specialize in building dynamic, scalable, and efficient web solutions — from intuitive front-end interfaces to robust back-end systems.
 
 - 🔭 I’m currently working on **Full-Stack Web Applications**
@@ -52,10 +55,10 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 ### 📊 GitHub Stats
 
 ![Sabur's Stats](https://github-readme-stats.vercel.app/api?username=absabur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-<br>
-![Streak](https://streak-stats.demolab.com/?user=absabur&theme=tokyonight&hide_border=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&layout=compact)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=absabur&theme=tokyonight&hide_border=true)
 
 <br>
 
