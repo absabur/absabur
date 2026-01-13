@@ -54,17 +54,14 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-gamma-rose-51.vercel.appapi?username=absabur&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-gamma-rose-51.vercel.app/api?username=absabur&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br>
 
-![Streak](https://github-readme-streak-stats-pearl-alpha.vercel.app/?user=absabur&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats-eight-umber.vercel.app//?user=absabur&theme=tokyonight&hide_border=true)
 
-<br>
 
-![Top Langs](https://github-readme-stats-gamma-rose-51.vercel.appapi/top-langs/?username=absabur&theme=tokyonight&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats-gamma-rose-51.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&layout=compact)
 
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=absabur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
