@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ### 👋 I’m a passionate Full-Stack Web Developer
 
 I specialize in building dynamic, scalable, and efficient web solutions — from intuitive front-end interfaces to robust back-end systems.
@@ -20,13 +19,10 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, REST APIs, or Selenium**
 - 📫 Contact: [absabur929@gmail.com](mailto:absabur929@gmail.com)
-
 ---
 
 <div align="center">
-
 ### 💻 Tech Stack
-
 **Frontend**
 <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,19 +45,12 @@ I specialize in building dynamic, scalable, and efficient web solutions — from
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats
-
 ![Stats](https://github-readme-stats-gamma-rose-51.vercel.app/api?username=absabur&show_icons=true&theme=tokyonight&hide_border=true)
-
-
 ![Streak](https://github-readme-streak-stats-eight-umber.vercel.app//?user=absabur&theme=tokyonight&hide_border=true)
-
-
 ![Top Langs](https://github-readme-stats-gamma-rose-51.vercel.app/api/top-langs/?username=absabur&theme=tokyonight&hide_border=true&layout=compact)
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=absabur&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
