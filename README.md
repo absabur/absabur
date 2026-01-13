@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 About Me
+# About Me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=I'm+Md+Abdus+Sabur;Full-Stack+Web+Developer;MERN+Stack+Expert;Next.js+Developer)
 
@@ -11,7 +11,7 @@
 </div>
 
 ---
-### 👋 I’m a passionate Full-Stack Web Developer
+### I’m a passionate Full-Stack Web Developer
 
 I specialize in building dynamic, scalable, and efficient web solutions — from intuitive front-end interfaces to robust back-end systems.
 
