@@ -11,7 +11,7 @@
 </div>
 
 ---
-### I’m a passionate Full-Stack Web Developer
+### I’m a Full-Stack Web Developer
 
 I specialize in building dynamic, scalable, and efficient web solutions — from intuitive front-end interfaces to robust back-end systems.
 
